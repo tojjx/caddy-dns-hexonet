@@ -19,8 +19,8 @@ To use this module for the ACME DNS challenge, [configure the ACME issuer in you
     "dns": {
       "provider": {
         "name": "hexonet",
-        "api_username": "YOUR_HEXONET_USERNAME",
-        "api_password": "YOUR_HEXONET_PASSWORD"
+        "username": "YOUR_HEXONET_USERNAME",
+        "password": "YOUR_HEXONET_PASSWORD"
       }
     }
   }
