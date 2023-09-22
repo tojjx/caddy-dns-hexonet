@@ -238,6 +238,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/tojjx/libdns-hexonet v0.1.1 h1:RaQX64oTs3SOOjDsYAaF5UZ4DJrh64rYS6UcG6TOq5I=
 github.com/tojjx/libdns-hexonet v0.1.1/go.mod h1:cJekQAu/P1alPAgXBpikQWcr0q94iKRY4bbH1kj7vck=
+github.com/tojjx/libdns-hexonet v0.1.2 h1:z3Js8N3V530Xqb8Rdcgo1DiNJ48FoAG4Zl50tIesgls=
+github.com/tojjx/libdns-hexonet v0.1.2/go.mod h1:cJekQAu/P1alPAgXBpikQWcr0q94iKRY4bbH1kj7vck=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

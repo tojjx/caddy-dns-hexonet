@@ -4,7 +4,7 @@ go 1.21.1
 
 require (
 	github.com/caddyserver/caddy/v2 v2.7.4
-	github.com/tojjx/libdns-hexonet v0.1.1
+	github.com/tojjx/libdns-hexonet v0.1.2
 )
 
 require (
